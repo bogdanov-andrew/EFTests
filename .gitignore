@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/CodeFirstEFTest1/CodeFirstEFTest1/bin/Debug
+/CodeFirstEFTest1/.vs/CodeFirstEFTest1/v14/*.suo
+/CodeFirstEFTest1/CodeFirstEFTest1/obj/Debug
